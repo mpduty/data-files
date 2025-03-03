@@ -1,0 +1,11 @@
+City,Age,Salary,Purchased
+Ranchi,44,72000,No
+Tata,27,48000,Yes
+Bokaro,30,54000,No
+Tata,38,61000,No
+Bokaro,40,,Yes
+Ranchi,35,58000,Yes
+Tata,,52000,No
+Ranchi,48,79000,Yes
+Bokaro,50,83000,No
+Ranchi,37,67000,Yes
